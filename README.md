@@ -1,12 +1,9 @@
 <h1 align="center">
   <br>
-  URL-Shortener
+  URL-Shortener 🔗
   <br>
 </h1>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,react,redux,tailwind,github" alt="Tech Stack" width="300">
-</div>
 
 <p align="center">
   A URL shortening application developed using the MERN stack for an efficient and modern web experience.
