@@ -44,8 +44,8 @@
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/soumadip-dev/URL-Shortener-MERN.git
-   cd URL-Shortener-MERN
+   git clone https://github.com/soumadip-dev/URL-Shortener.git
+   cd URL-Shortener
    ```
 
 2. **Backend Setup**
