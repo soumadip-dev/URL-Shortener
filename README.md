@@ -4,29 +4,34 @@
   <br>
 </h1>
 
-
 <p align="center">
   A URL shortening application developed using the MERN stack for an efficient and modern web experience.
 </p>
 
 <div align="center">
-  <img src="https://github.com/soumadip-dev/URL-Shortener-MERN/blob/main/client/src/assets/ss.png" alt="URL Shortener screenshot" width="900">
+  <img src="./client/src/assets/ss.png" alt="URL Shortener screenshot" width="900">
 </div>
 
-## 🌟 Features
+---
+
+## 🎬 Demo Video
+
+[URL-Shortner](https://www.linkedin.com/posts/soumadip-majila-dgp_just-built-a-sleek-url-shortener-with-mern-activity-7365975588794191872-rLcA?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAD1aMJQBxnv5DdAHrtZuCweFePs_SWP_DFE)
+
+## 🔋 Features
 
 - 🔗 **URL Shortening** – Generate short, unique URLs for long links.
 - 🌐 **Custom Short URLs** – Create personalized short URLs.
 - 🔐 **User Authentication** – Secure login and registration using JWT.
 - 📊 **Analytics** – Track URL visits and generate usage reports.
 
-## 🛠 Tech Stack
+## ⚙️ Tech Stack
 
-- **Frontend**: React, Redux, Tailwind CSS, Tanstack Router, Tanstack Query
-- **Backend**: Node.js, Express.js (RESTful API)
-- **Database**: MongoDB with Mongoose
+- **🎨 Frontend**: React, Redux, Tailwind CSS, Tanstack Router, Tanstack Query
+- **🚀 Backend**: Node.js, Express.js (RESTful API)
+- **🗄 Database**: MongoDB with Mongoose
 
-## 🛠️ Installation
+## 🤸 Installation
 
 ### Prerequisites
 
